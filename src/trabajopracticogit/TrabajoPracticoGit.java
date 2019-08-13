@@ -21,6 +21,8 @@ public class TrabajoPracticoGit {
         System.out.println(Resta.restar(-1, 2));
         System.out.println(Division.dividir(-1,2));
         System.out.println(Multiplicacion.multiplicar(-1, 2));
+        System.out.println(Potenciacion.potencia(-1, 2));
+        System.out.println(Radicacion.raiz(8, 3));
     }
     
 }
