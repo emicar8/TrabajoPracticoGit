@@ -16,6 +16,11 @@ public class TrabajoPracticoGit {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        System.out.println(Suma.sumar(-1, 2));
+        System.out.println(Resta.restar(-1, 2));
+        System.out.println(Division.dividir(-1,2));
+        System.out.println(Multiplicacion.multiplicar(-1, 2));
     }
     
 }
